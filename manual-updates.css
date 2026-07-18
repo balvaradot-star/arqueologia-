@@ -1,0 +1,2 @@
+.manual-copy .manual-subhead{font-size:clamp(1.7rem,3.3vw,3rem);line-height:.95;letter-spacing:-.06em;margin:4.5rem 0 1.3rem;max-width:620px}
+@media(max-width:780px){.manual-copy .manual-subhead{margin-top:3.2rem}}
